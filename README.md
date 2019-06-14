@@ -20,4 +20,4 @@ You can visit the web application at http://bootstarter.azurewebsites.net/.
 Right after the registration the user appears to be logged in, but trying to interact with the site asks them to log in. The problem gets solved by logging out and loggin in back again. It does not show again and everything works well thereafter.
 
 The project started mid of April 2019 and was finished by 9th of May at the same year.
-Contributors to this project were Amartolos Nikos, Katsiaounis Thanos and Paraskevaides Marios.
+Contributors to this project were Amartolos Nikos, Katsiaounis Athanasios and Paraskevaides Marios.
